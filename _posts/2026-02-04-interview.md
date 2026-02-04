@@ -3,11 +3,6 @@ layout: post
 title: "The interview"
 date: 2026-02-04
 ---
-# Interview with Illsaberr
-
-**Date:** February 4, 2026
-
----
 
 **Q:** At this point in your life, does Illsaberr still feel like an aesthetic mask you put on, or has it started to merge with how you actually see yourself as an artist?  
 
